@@ -1,2 +1,1 @@
-# MovieMate
-Movie Recommendation System
+# movies-recommender-system
