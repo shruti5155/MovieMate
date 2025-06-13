@@ -1,5 +1,5 @@
 # Movie Recommender System
-A content based movie recommender system using cosine similarity
+ A personalized movie recommender web app using content-based filtering with Streamlit and TMDB API.
 
 
 Demo Link : https://moviemate-vk4e.onrender.com/
